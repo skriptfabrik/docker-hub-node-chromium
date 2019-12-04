@@ -1,4 +1,4 @@
-FROM node:12.13.1-alpine
+FROM node:13.2.0-alpine
 
 ENV CHROME_BIN=/usr/bin/chromium-browser
 ENV CHROME_DRIVER_BIN=/usr/bin/chromedriver
