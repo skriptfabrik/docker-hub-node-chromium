@@ -2,7 +2,7 @@
 
 set -e
 
-export NG_VERSION=8.3.19
+export NG_VERSION=8.3.22
 
 echo "Testing Docker build with Angular"
 echo "================================="
