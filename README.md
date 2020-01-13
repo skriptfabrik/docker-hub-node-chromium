@@ -10,4 +10,4 @@ in order to run web-browser-based unit and e2e tests out of the box.
 
 ### With Chromium Version `79.0.3945.88`
 * `12.14` ([Dockerfile](https://github.com/skriptfabrik/docker-hub-node-chromium/blob/12.14/Dockerfile))
-* `12.14.1` ([Dockerfile](https://github.com/skriptfabrik/docker-hub-node-chromium/blob/12.14.0/Dockerfile))
+* `12.14.1` ([Dockerfile](https://github.com/skriptfabrik/docker-hub-node-chromium/blob/12.14.1/Dockerfile))
